@@ -1,6 +1,6 @@
 .. image:: rauc_logo_small.png
    :alt: RAUC logo
-   :align: center
+   :align: center 
 
 RAUC - Robust Auto-Update Controller
 ====================================
